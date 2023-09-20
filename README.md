@@ -1,2 +1,1 @@
-I'm Solomon, a data oriented Analyst.
-I'm currently looking for an environment, a network of friends to enhance my skills.
+A detail-oriented Data Analyst passionate about generating actionable insights from historical data. I specialize in Excel, Python, and Power BI, with reliability and your satisfaction as my watchwords
